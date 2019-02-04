@@ -1,6 +1,6 @@
 Puntos adquiridos en gda
 realizando un 100% de daño:
--------------------------------------------------------------
+--------------------------------------------------
 Yoker_hiphop 203.339 Poder
 fbngoliath 610    307.488 Poder
 zodiac     583    276.114 Poder
